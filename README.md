@@ -15,7 +15,7 @@ What You'll Find Here:
 
 **Automation Framework:** If applicable, automation scripts and testing frameworks used to streamline the testing process.
 
-How to Contribute:
+**How to Contribute:
 
 We welcome contributions from the QA community to improve OrangeHRM's quality. Whether you're a tester, developer, or quality enthusiast, you can participate by:
 
